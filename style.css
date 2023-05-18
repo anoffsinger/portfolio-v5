@@ -69,6 +69,8 @@ body {
 	width: 45vw;
 	padding-left: 4em;
 	padding-top: 4em;
+	position: relative;
+	z-index: 1;
 	
     
 }
